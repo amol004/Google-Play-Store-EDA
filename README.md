@@ -1,1 +1,7 @@
 # Google-Play-Store-EDA
+The goal of this project is to provide information that will assist developers to better understand client needs and, in turn, help the product become more well-known. The Play Store data contains 10,000 applications for studying the Android market. This dataset includes information about several applications and user evaluations.
+The Play Store applications data set(PlayStoreData.csv) offers a lot of promise to help app-making enterprises succeed.
+Each row in this collection contains values for its category, rating, size, and other attributes.
+Customer reviews of the Android apps are included in another dataset.(UserReviews.csv)
+Apps are being developed at an increasing rate since they are simple to make and can be profitable. In this notebook, here we compare more than 10,000 apps from different categories in the Google Play store to conduct a thorough analysis of the Android app industry.
+There is a vast amount of data in the Google Play Store app dataset that may be leveraged to produce insightful analysis. The success and user engagement are greatly influenced by a number of important aspects. When compared to the current Google Play store App market, our issue statement is almost inevitable. Following extensive study, it was discovered that the Google Play store library is growing rapidly every day. As a result, a range of insights may be drawn for company improvements.
