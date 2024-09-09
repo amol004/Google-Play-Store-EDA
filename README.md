@@ -62,5 +62,6 @@ Sentiment_Polarity: Defines the orientation of the expressed sentiment(between -
 
 Sentiment_Subjectivity : Refers to the degree to which a person's review is related to the App (lies between 0 to 1)
 
-
+# Conclusion
+After analysing the data, we were able to determine the answers to a number of significant and intriguing questions that any Android user would find fascinating. We carried out numerous operations to obtain insights such as Rating Distribution, the Top 20 Most Expensive Apps, the Most Downloaded Categories according to Their Type, the Top 10 Most Installed Apps in the COMMUNICATION category, and many more. Overall, learning about the App industry was enjoyable and greatly aided my understanding of it.
 
